@@ -120,7 +120,7 @@ A inclusão e a diversidade no mercado de trabalho são temas de grande relevân
 ### Problema a ser resolvido
 Necessidade de uma ferramenta que oriente e facilite a  compreensão de todos os passos da jornada de contratação de um  fornecedor META para colaboradores META. Desde o Sourcing  (Primeiro Contato) até o Payment (Pagamento).
 
- ### Dados disponíveis
+### Dados disponíveis
 ● Tecnologias a serem usadas no desenvolvimento do game: CSS; HTML5; JS; GitHub; VS Code; Phaser.
 
 ● Macro do game: Decisões que afetam o final; Senso de progressão; Fazer parte de um time; Relação entre causa e efeito da ação em pouco tempo; Menos elementos, mais o essencial; Mais de uma fase; Sem banco de dados; Conteúdo restrito entre grupo e meta; Duração de + ou - 20 minutos; Celular como plataforma de uso; Inglês e Português; Podemos utilizar recursos da META no game (personagens, suas redes sociais, etc.); Recompensa pra aqueles que finalizaram o game.
