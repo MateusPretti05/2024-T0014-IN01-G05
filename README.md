@@ -14,9 +14,9 @@
 - <a href="https://www.linkedin.com/in/davi-abreu-da-silveira-706323290/">Davi Abreu da Silveira</a>
 - <a href="https://www.linkedin.com/in/victorbarq/">Fernando Soares Oliveira</a>
 - <a href="https://www.linkedin.com/in/victorbarq/">Leonardo Ogata Pedrosa</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Mateus Martins Silveira Pretti</a> 
+- <a href="https://www.linkedin.com/in/mateus-martins-pretti-03ba952b4/">Mateus Martins Silveira Pretti</a> 
 - <a href="https://www.linkedin.com/in/victorbarq/">Murilo Couto Oliveira</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Renan Sabino dos Reis</a> 
+- <a href="https://www.linkedin.com/in/renan-reis-483a10289/">Renan Sabino dos Reis</a> 
 - <a href="https://www.linkedin.com/in/victorbarq/">Vinicius Gomes Ibiapina</a>
 
 ## 👩‍🏫 Professores:
@@ -26,9 +26,9 @@
 - <a>Bruna Mayer</a>
 - <a>Egon Ferreira Daxbacher</a> 
 - <a>Filipe Manoel Xavier Resina</a> 
-- <a>Filipe Gonçalves de Souza Nogueira da Silva</a>
-- <a>Kizzy Fernanda Terra Ferreira da Paz</a> 
-- <a>Ricardo José Misouri</a>
+- <a href="https://www.linkedin.com/in/filipe-gon%C3%A7alves-08a55015b/">Filipe Gonçalves de Souza Nogueira da Silva</a>
+- <a href="https://www.linkedin.com/in/kizzyterra/">Kizzy Fernanda Terra Ferreira da Paz</a> 
+- <a href="https://www.linkedin.com/in/ricardo-jos%C3%A9-missori/">Ricardo José Misouri</a>
 
 ## 📜 Descrição
 
