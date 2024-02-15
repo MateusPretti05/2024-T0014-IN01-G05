@@ -45,23 +45,91 @@
 
 ### 1.1.1. Contexto da indústria (sprints 1 e 4)
 
-*Posicione aqui o texto que explica o contexto da indústria/mercado do qual o parceiro de projeto faz parte. Contextualize o segmento de atuação do parceiro (pode ser indústria, comércio ou serviço). Caracterize as atividades executadas pelo negócio do parceiro e a abrangência de suas atividades (âmbito internacional, nacional ou regional).*
+  A Meta, anteriormente conhecida como Facebook, é uma das gigantes do setor de tecnologia. Sua operação eficaz e contínua inovação dependem de uma rede de fornecedores, parceiros e colaboradores. Os fornecedores são vitais para o funcionamento diário da Meta, fornecendo desde hardware e software até serviços de infraestrutura de data center. A colaboração com fornecedores confiáveis garante que as operações da Meta sejam executadas de maneira suave e eficiente.
+  A empresa também mantém uma variedade de parcerias com empresas e organizações. Por exemplo, associa-se a empresas de publicidade para gerar receita, a desenvolvedores de aplicativos para expandir a funcionalidade de suas plataformas e a organizações sem fins lucrativos para apoiar diversas causas sociais, inclusive apoiando a diversidade de funcionários em empresas. Essas parcerias com organizações sem fins lucrativos e iniciativas de responsabilidade social contribuem para melhorar a imagem da marca da Meta e estabelecer uma reputação positiva. Desse modo, a Meta vem possuindo  vários parceiros em diversas áreas, incluindo empresas de tecnologia, mídia, publicidade e organizações sem fins lucrativos. Alguns exemplos incluem Microsoft, Spotify, Netflix, Visa, Mastercard, entre Projeções e Perspectivas Futurasmuitos outros em diferentes setores e regiões ao redor do mundo.
+  Os fornecedores e parceiros agregam valor à Meta de várias maneiras. Eles ajudam a melhorar a eficiência operacional, permitindo que a Meta opere de maneira eficiente e eficaz, minimizando interrupções e maximizando a produtividade.Os parceiros de publicidade e mídia ajudam a Meta a alcançar um público mais amplo e aumentar sua base de usuários. Em troca, a Meta oferece a esses fornecedores e parceiros a oportunidade de trabalhar com uma das empresas de tecnologia mais influentes e de maior porte do mundo. Trata-se de uma relação mutuamente benéfica que impulsiona a inovação e o crescimento em todo o setor de tecnologia.
+### Concorrentes
+  A Meta, enfrenta uma concorrência acirrada em vários mercados globais. No mercado chinês, por exemplo, o WeChat tem uma presença dominante, principalmente devido às restrições governamentais à entrada de outros aplicativos. No Japão, a plataforma de comunicação Line é uma força a ser reconhecida.
+Nos Estados Unidos, a situação é um pouco diferente. A maioria da população possui planos de telefonia móvel que incluem SMS gratuitos, o que limita a predominância da Meta nesse segmento específico.
+  O Snapchat é outro concorrente notável, com uma base de usuários substancial espalhada pelo mundo. Nos Estados Unidos, o aplicativo tem 100 milhões de usuários, na Índia 99,8 milhões, na França 23,4 milhões, no Reino Unido 19,8 milhões e na Arábia Saudita 19,1 milhões.
+O Telegram, com mais de 800 milhões de usuários, é o aplicativo de comunicação mais popular na Rússia. O Discord, por outro lado, tem uma presença global significativa, com 150 milhões de usuários.
+  Finalmente, o TikTok, com mais de 1 bilhão de usuários ativos por mês em todo o mundo, é um dos principais concorrentes da Meta. Essa diversidade de plataformas e aplicativos destaca a dinâmica e a competitividade do mercado de tecnologia e comunicação digital.
+### Projeções e Perspectivas Futuras
+  A Meta, está em constante busca por inovação em seus produtos. Realiza frequentemente atualizações em seu aplicativo para torná-lo mais atraente aos consumidores e para solucionar problemas comuns enfrentados pelos usuários. Essa abordagem tem fortalecido a posição da Meta no mercado, e é certo que a empresa continuará a inovar em seus produtos.Operando em um mercado em constante evolução, acompanhar as tendências globais é essencial para a Meta. A empresa busca expandir sua atuação para mercados ainda pouco explorados, como Estados Unidos, Japão e China. No entanto, também é fundamental para a Meta consolidar sua posição nos setores onde já é dominante. Dessa forma, a empresa pode manter sua relevância e continuar a crescer.
+  A interação entre pessoas e tecnologia, com o objetivo de gerar valor e aumentar a produtividade, é uma tendência que persiste e se fortalece a cada ano. A Meta está comprometida em trazer novas soluções inovadoras para o mercado, contribuindo positivamente para o avanço tecnológico e o bem-estar das pessoas.
+  A inclusão e a diversidade no mercado de trabalho são temas de grande relevância e estão se tornando cada vez mais centrais nos negócios. A Meta está comprometida em ampliar a participação de pessoas no mercado de trabalho, buscando colaboradores e fornecedores que compartilhem dessa mesma iniciativa. Esta é uma visão geral da estratégia e dos compromissos da Meta em relação à inovação, expansão de mercado, interação tecnológica e diversidade no local de trabalho.
 
 ### 1.1.2. Análise SWOT (sprints 1 e 4)
 
-*Posicione aqui a análise SWOT relacionada ao parceiro de projeto. Utilize a análise SWOT para fazer uma análise ambiental do parceiro no âmbito estratégico. Leve em consideração o contexto da indústria, concorrência e as características do ambiente interno (forças e fraquezas) e externo (oportunidades e ameaças) do parceiro.*
+## FORÇAS (S): 
+	Grande base de usuários: A Meta possui uma enorme base de usuários que usam suas redes sociais. No Brasil, cerca de 93,4% da população com idade entre 16 e 64 anos utilizam o WhatsApp, plataforma adquirida pela Meta em 2014, o que equivale a aproximadamente 169 milhões de usuários. Além disso, o app contou com mais de 541 milhões de downloads, sendo o quarto 'app' mais baixado do mundo. A posição parece não ser tão boa, mas o que surpreende é que dos três apps que aparecem à sua frente, dois são da Meta. Em terceiro lugar está o Facebook, que mesmo após tantos anos de sua ascensão continua atraindo muitos novos usuários. No final do ano de 2023, a equipe da Meta tornou pública a informação de que o Facebook contava diariamente com cerca de 2,11 bilhões de usuários ativos. Logo depois do Facebook temos o Instagram, ocupando o segundo lugar dos apps mais baixados em 2023. O Instagram contou com cerca de 829 milhões de downloads, e com mais de dois bilhões de usuários ativos diariamente. Com isso, sua base de usuários é sem dúvidas uma das maiores da internet, ganhando até mesmo do gigante TikTok que aparece em ascensão, porém conquistando 'apenas' cerca de 1 bilhão de usuários ativos diariamente. 
+
+	Grande capacidade de inovação: A Meta, antes mesmo de ser Meta, já foi capaz de revolucionar a maneira como enxergávamos as redes sociais. Antes do Facebook, as redes sociais tinham um conceito muito diferente do que imaginamos hoje. Anos depois eles revolucionaram novamente com a compra do Instagram, por aproximadamente 1 bilhão de dólares. Recentemente nos foi apresentado o Metaverso, sem dúvidas a maior inovação da empresa desde então. Sua capacidade de inovação pode ser observada também pelo sucesso de todas as suas novas funcionalidades que são implementadas em seus apps. 
+
+	Vantagem competitiva: A Meta oferece uma variedade de serviços integrados que atendem às diferentes necessidades e preferências dos usuários. Uma mesma empresa se tornou capaz de oferecer: redes sociais, mensagens, realidade virtual e aumentada, negócios e publicidade. Alguns desses elementos, como as redes sociais e os negócios e publicidade, são apresentados em conjunto.
+
+	Boa cultura organizacional: A cultura organizacional da Meta estimula a criatividade, a colaboração e a experimentação, atraindo talentos de diversas áreas e origens. No caso da Meta, essa cultura parece ser baseada em cinco princípios: dar voz às pessoas, construir conexões e comunidade, atender a todos, promover oportunidades e proteger seus usuários. 
+
+	Forte presença no mercado publicitário: A Meta tem um forte nome no mercado publicitário. Espera-se que o Instagram seja responsável por movimentar cerca de 9,1 bilhões de dólares em anúncios no ano de 2024. O conhecido tráfego pago é acessível, você pode anunciar a sua marca por apenas U$1,00 (R$4,95 no dia em que escrevo isso), o que aumenta ainda mais a gama de personas que podem anunciar.
+
+## FRAQUEZAS:
+	Problemas legais: A Meta enfrenta diversos problemas legais, regulatórios e éticos em diversos países, relacionados à privacidade, segurança, concorrência, conteúdo nocivo, desinformação e manipulação de dados dos usuários. Em dezembro de 2022 a Meta concordou em pagar cerca de US$ 725 milhões para encerrar um processo que acusava a empresa de permitir que a Cambridge Analytica e outras empresas de análise de dados tivessem acesso aos dados privados de seus usuários.
+
+	Má reputação: Para muitos usuários a Meta é uma empresa que abusa de seu poder de mercado. Grande parte dessa má reputação da empresa é proveniente dos problemas legais, citados anteriormente, mas recentemente o seu algoritmo passou a também ser alvo de críticas. A Meta foi acusada de fornecer um algoritmo nocivo para a saúde mental de seus usuários, divulgando de maneira desproporcional a padronização da beleza.
+
+	Curto ciclo de vida de seus produtos: A tecnologia está em constante evolução, e os produtos se tornam obsoletos muito rapidamente. A empresa já sofreu com esse curto ciclo de vida de seus produtos. O Facebook, embora ainda conte com muitos usuários, deixou de atrair o público mais jovem, tornando-se um produto nichado, consequentemente perdendo um grande público.
+
+	Desafios na moderação de seus anúncios: Com o sucesso crescente do tráfego pago, as redes sociais se mostraram uma enorme oportunidade para aumentar as vendas. No entanto, essa visibilidade também se mostrou uma grande oportunidade para golpistas. A moderação dos anúncios do Instagram parece não funcionar, e cada vez mais os anúncios maliciosos tomam conta das redes sociais da Meta. Um grande exemplo disso são as casas de apostas virtuais, que, embora ainda sejam contra as leis brasileiras, continuam operando a todo vapor com milhares de promessas falsas. Além das propagandas pagas ao próprio Instagram, algumas dessas propagandas são pagas aos influencers, que são visitados diariamente por milhares de usuários.
+
+	Dependência de publicidade: A Meta depende fortemente da publicidade em suas plataformas, já que seus aplicativos são gratuitos e não possuem muitas opções de compras integradas ao app. 
+
+## AMEAÇAS:
+	Maior regulamentação e fiscalização: Os aplicativos da Meta possuem um enorme banco de dados com inúmeras informações de seus usuários. Essas informações são sensíveis e alguns governos podem enxergar isso como uma ameaça aos seus cidadãos. Em caso de qualquer alteração nessas regulamentações, as plataformas da Meta podem sofrer restrições e deixarem de circular em determinadas regiões até que adequem suas diretrizes para a região.
+
+	Forte concorrência: Embora tenha plataformas consolidadas no mercado, a concorrência aumenta a cada dia e novas tendências começam a surgir. É importante mencionar que tudo aquilo que rouba a atenção do usuário pode ser uma concorrente para as redes sociais em geral, mas algo ainda mais perigoso parece se aproximar: novas tendências de redes sociais. Em 2020, a Meta viu suas plataformas serem deixadas de lado, enquanto milhares de novos usuários passavam a gastar seus tempos de ócio no TikTok. Com um modelo de vídeos curtos, o TikTok passou a ditar um novo segmento dentro das plataformas. Como o TikTok a cada dia se tornava uma ameaça mais real, a Meta decidiu integrar o modelo de vídeos curtos no Instagram, com o Reels. Embora a adição seja um sucesso, o TikTok continua assombrando a empresa. 
+
+	Boicotes: Diante desses escândalos de privacidade, a Meta pode virar alvo de boicote e perder grande parte de seus usuários para outras plataformas. Mas há algo ainda mais suscetível a boicotes do que essa questão de privacidade: o Metaverso. Algo muito semelhante vem acontecendo recentemente com as inteligências artificiais de texto e imagens, que foram alvo de diversos protestos importantes.  
+
+	Bloqueador de anúncios: Com grande parte de sua renda tendo origem em propagandas, os bloqueadores de anúncio surgem como uma grande ameaça para a Meta. Em geral, os anunciantes só anunciam se tiverem certeza de que há chances de converter aqueles anúncios em vendas. Essa conversão de anúncios em vendas se torna ineficaz com o uso dos bloqueadores de anúncio.
+
+	Flutuações econômicas: A Meta é sensível a flutuações econômicas globais que podem afetar os orçamentos de publicidade, o poder de compra dos usuários e a estabilidade financeira das empresas que anunciam em suas plataformas. Por depender de publicidade para gerar receita, qualquer grande alteração na economia de um país pode resultar em prejuízo para a Meta. 
+
+## OPORTUNIDADES: 
+	Educação online e trabalho remoto: Com o aumento do ensino à distância e do trabalho remoto, a Meta poderia explorar oportunidades para desenvolver ou adquirir plataformas de aprendizado online e ferramentas de colaboração remota, alinhando as mudanças nas tendências de trabalho e educação com suas ofertas de produtos. Vale mencionar que, desde o surto global de COVID-19 em meados de 2020, o mundo passou por uma enorme revolução. Mesmo com as salas de aula presenciais novamente cheias de alunos, muitos professores continuam utilizando plataformas online para a organização de suas tarefas. 
+
+	Mercados emergentes: A Meta pode explorar oportunidades de crescimento em mercados emergentes, onde o acesso à internet ainda está em estágios iniciais e, consequentemente, a adoção das redes sociais está crescendo. Implementar os idiomas desses países pode significar uma disparada à frente dos concorrentes, e captar esses novos usuários pode impulsionar de forma significativa a base de usuários da empresa.
+
+	Expandir suas plataformas: Com tantos novos segmentos surgindo, a Meta poderia expandir suas marcas já consolidadas no mercado e integrar alguns desses segmentos dentro de suas plataformas. Por exemplo: o Tinder é um aplicativo muito forte de namoro, por que não integrar algo semelhante ao Facebook? 
+
+	Parcerias: Com tanta expectativa no futuro do Metaverso, a Meta pode propor parcerias com empresas de diferentes segmentos e trazê-las não apenas para o Metaverso, mas também integrá-las às demais plataformas da Meta. Essas colaborações estratégicas com outras empresas podem abrir novas oportunidades para a Meta. Parcerias em áreas como entretenimento, educação ou saúde digital podem ampliar seu alcance e oferecer experiências mais abrangentes aos usuários.
+
+	Integração de Pagamentos P2P: Facilitar transações financeiras entre usuários em suas plataformas pode ser uma excelente oportunidade. A Meta pode explorar a integração de sistemas de pagamento P2P e tornar o envio de dinheiro mais simples e conveniente. Essa funcionalidade inclusive já foi implementada no WhatsApp, mas ainda necessita de muita burocracia para ser realizada.
+
 
 ### 1.1.3. Descrição da Solução Desenvolvida (sprints 1 e 4)
 
-*Descreva brevemente a solução desenvolvida para o parceiro de negócios. Descreva os aspectos essenciais para a criação de valor da ideia do produto com o objetivo de ajudar a entender melhor a realidade do cliente e entregar uma solução que está alinhado com o que ele espera. Observe a seção 2 e verifique que ali é possível trazer mais detalhes, portanto seja objetivo aqui. Atualize esta descrição até a entrega final, conforme desenvolvimento.*
+### Como a proposta deve ser utilizada?
+Os colaboradores deverão empregar o jogo como uma ferramenta de orientação acerca do procedimento de contratação de fornecedores para a META, visando  desmistificar a concepção de que se trata de um processo complexo e de difícil  aprendizagem. Durante o jogo, os colaboradores serão conduzidos e fornecidos  com dicas sobre como devem lidar com esse processo, proporcionando, assim, uma maior facilidade no seu aprendizado.
+
+### Dados disponíveis
+
+● Tecnologias a serem usadas no desenvolvimento do game: CSS; HTML5; JS; GitHub; VS Code; Phaser;
+
+● Macro do game: Decisões que afetam o final; Senso de progressão; Fazer parte de um time; Causa efeito em pouco tempo; Menos elementos; Mais de uma fase;Sem banco de dados; Conteúdo restrito entre grupo e meta; Duração de + ou - 15 minutos; Celular como plataforma de uso; Inglês e Português; Podemos utilizar recursos da META no game (personagens, suas redes sociais, etc.); Recompensa pra aqueles que finalizaram o game.
+
+● Pontos de destaque das reuniões: Inclusão social; Perfil de fornecedor meta; SEEDS:
+■ Relacionamento com fornecedores;
+■ Engajamento;
+■ Diversidade;
+■ Sustentabilidade;
+○ Game deve ter algum recurso que ajude a engajar a equipe META
+○ UX e UI devem ser um foco no desenvolvimento do game
 
 ### 1.1.4. Proposta de Valor (sprints 1 e 4)
-
-*Posicione aqui o canvas de proposta de valor. Descreva os aspectos essenciais para a criação de valor da ideia do produto com o objetivo de ajudar a entender melhor a realidade do cliente e entregar uma solução que está alinhado com o que ele espera.*
+[Value Proposition Canvas](https://github.com/Inteli-College/2024-T0014-IN01-G05/files/14300301/value.proposition.pdf)
 
 ### 1.1.5. Matriz de Riscos (sprints 1 e 4)
-
-*Registre na matriz os riscos identificados no projeto, visando avaliar situações que possam representar ameaças e oportunidades, bem como os impactos relevantes sobre o projeto. Apresente os riscos, ressaltando, para cada um, impactos e probabilidades com plano de ação e respostas.*
+![matriz de riscos](https://github.com/Inteli-College/2024-T0014-IN01-G05/assets/158570773/02e8932e-ee7b-4846-8033-9ffe65c82c20)
 
 ## 1.2. Requisitos do Projeto (sprints 1 e 2)
 
