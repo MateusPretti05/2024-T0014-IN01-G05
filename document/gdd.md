@@ -138,7 +138,7 @@ Diversidade;
  Para avaliar esse sucesso os feedbacks que receberemos  pós lançamento do game, tanto vindos da META, quanto também  vindos da equipe de especialistas do INTELI devem ser positivos e construtivos. Dessa forma, poderemos comparar as experiências do usuário com as suas expectativas e também com as nossas.
 
 ### 1.1.4. Proposta de Valor (sprints 1 e 4)
-[Value Proposition Canvas](https://github.com/Inteli-College/2024-T0014-IN01-G05/files/14300301/value.proposition.pdf)
+![value proposition.pdf](https://github.com/Inteli-College/2024-T0014-IN01-G05/files/14300608/value.proposition.pdf)
 
 ### 1.1.5. Matriz de Riscos (sprints 1 e 4)
 ![matriz de riscos](https://github.com/Inteli-College/2024-T0014-IN01-G05/assets/158570773/02e8932e-ee7b-4846-8033-9ffe65c82c20)
