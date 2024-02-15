@@ -22,7 +22,7 @@ var text
 
 function preload(){
     //sprite do player
-    this.load.spritesheet('player','assets/boneco.png',{frameWidth:166, frameHeight:186});
+    this.load.spritesheet('player','assets/boneco.jpeg',{frameWidth:166, frameHeight:186});
     //animação do plano de fundo
     this.load.image('map','assets/image.jpeg');
 }
@@ -39,8 +39,6 @@ function create(){
     cursors = this.input.keyboard.createCursorKeys();
     keybA = this.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.A);
     keybD = this.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.D);
-    keybW = this.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.W);
-    keybS = this.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.S);
     
     
     this.anims.create({
@@ -72,11 +70,11 @@ function update(){
             player.x +=10
            // player.setVelocityX(+100)
         }
-       else if(cursors.up.isDown || keybW.isDown ){
+       else if(cursors.up.isDown){
             player.y -=10
            // player.setVelocityX(0);
         //}/
-    } else if(cursors.down.isDown || keybS.isDown){
+    } else if(cursors.down.isDown){
         player.y +=10
     }
 }
