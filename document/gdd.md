@@ -151,6 +151,34 @@ Para avaliar esse sucesso os feedbacks que receberemos  pós lançamento do game
 ### 1.1.5. Matriz de Riscos (sprints 1 e 4)
 ![matriz de riscos](https://github.com/Inteli-College/2024-T0014-IN01-G05/assets/158570773/02e8932e-ee7b-4846-8033-9ffe65c82c20)
 
+Conforme a avaliação dos riscos com a ferramenta da Matriz, segue a análise da vertente e o plano de ação para os mesmos:
+
+● Problemas Técnicos
+Os problemas técnicos englobam diversos elementos, tais como, queda de energia local, internet de má qualidade, entre outras. Esta problemática com certeza atrasaria os planos do projeto, mas não é de grande ameaça, pois geralmente essas vertentes se resolvem em pouco tempo. A resolução da ameaça seria o foco dos outros membros do grupo no processo onde  o outro colaborador do time está incapacitado de agir.
+
+● Atraso nas reuniões
+Considerando o movimento da cidade de São Paulo, é necessário listar que um possível atraso nas reuniões do projeto tem chance de ocorrer. Porém, este risco é rapidamente resolvível, pois os membros que participarem poderiam facilmente mandar em um meio de comunicação (Slack, Whatsapp, etc) as decisões dos participantes naquela reunião.
+
+●Acontecimentos de bugs
+Considerando que a equipe ainda está sobre aprendizado na questão da programação, é notável que alguns bugs podem acontecer, mas é muito provável que os mesmos não influenciem na jogabilidade do jogo. Uma medida para que isso pare de ocorrer, é o teste constante do jogo e o reporte de quando acontecer de se notar um bug.
+
+● Problemas com saúde
+No avanço do tempo é comum o acontecimento de problemas envolvendo a saúde, mas assim como foi classificado, esta vertente se classifica como uma ameaça moderada, pois assim como os problemas técnicos a soluçâo seria o "acobertamento" do membro afetado.
+
+● Desviamento dos Ideais da empresa
+Conforme o avanço do desenvolvimento do jogo, é possível ocorrer algum desviamento dos ideais da Meta em algum elemento no game. Podemos tomar como exemplo, uma competitividade desnecessária ou como citado no encontro do dia 09/02, se adicionarmos alguma figura da Meta no jogo e passarmos a ele algum conceito diferente do que a empresa quer. O movimento que podemos tomar quanto a isso, seria a constante comunicação com os colaboradores, para que acompanhem as nossas ideias conforme a adição de elementos no jogo.
+
+● Erro no código
+Ponderando novamente o ponto de que a equipe está em processo de aprendizado, há chances altas de ocorrer erros nos códigos que podem danificar a jogabilidade e experiência do usuário no jogo. O plano de ação é novamente comunicar aos integrantes quando reportarem erros e o acompanhamento da solução dessa vertente por partes de todos os membros, para que os mesmos aprendam com os erros.
+
+● Jogo não cumprir com as expectativas
+Na perspectiva do tópico anterior, o nosso contato inicial com a programação e design pode fazer com que o jogo não cumpra as expectativas em na questão de experiência do usuário (UX), podemos tomar como exemplo artes do jogo confusas e má fluidez dos comandos dados pelo jogador. Uma solução seria a requisição de um auxílio externo, como o orientador Marcelo, mas visando ainda que este auxílio também é dado a outros grupos enão só ao nosso.
+
+● Tempo não suficiente
+Visto que o o projeto e o aprendizado dos alunos caminham juntos, é possível notar que o tempo dado pela faculdade deve ser manipulado de forma eficiente, e que em meio a tensão da entrega do produto, pode ser que ocorra uma falta de tempo para um desenvolvimento melhor do projeto. O passo tomado para que essa problemática seja anulada, deve ser o planejamento prévio do plano de ação do grupo em visa do desenvolvimento do projeto.
+
+● Atraso devido a dificuldades iniciais
+Retomando o contexto do aprendizado, é muito provável que ocorra atraso nos planos devido ao primeiro contato com as ferramentas de programação, assim como antes citado. A solução seria a mudança de foco, antes na entrega do projeto, agora no exercício de aprender.
 ## 1.2. Requisitos do Projeto (sprints 1 e 2)
 
 *Posicione aqui a lista de requisitos levantados para o projeto, sejam pedidos do parceiro ou invenções do grupo. Descreva-os de forma objetiva, de modo que seja possível entender claramente como implementá-los tecnicamente.*
