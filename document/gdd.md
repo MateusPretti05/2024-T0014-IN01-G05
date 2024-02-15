@@ -45,19 +45,27 @@
 
 ### 1.1.1. Contexto da indústria (sprints 1 e 4)
 A Meta, anteriormente conhecida como Facebook, é uma das gigantes do setor de tecnologia. Sua operação eficaz e contínua inovação dependem de uma rede de fornecedores, parceiros e colaboradores. Os fornecedores são vitais para o funcionamento diário da Meta, fornecendo desde hardware e software até serviços de infraestrutura de data center. A colaboração com fornecedores confiáveis garante que as operações da Meta sejam executadas de maneira suave e eficiente.
+
 A empresa também mantém uma variedade de parcerias com empresas e organizações. Por exemplo, associa-se a empresas de publicidade para gerar receita, a desenvolvedores de aplicativos para expandir a funcionalidade de suas plataformas e a organizações sem fins lucrativos para apoiar diversas causas sociais, inclusive apoiando a diversidade de funcionários em empresas. Essas parcerias com organizações sem fins lucrativos e iniciativas de responsabilidade social contribuem para melhorar a imagem da marca da Meta e estabelecer uma reputação positiva. Desse modo, a Meta vem possuindo  vários parceiros em diversas áreas, incluindo empresas de tecnologia, mídia, publicidade e organizações sem fins lucrativos. Alguns exemplos incluem Microsoft, Spotify, Netflix, Visa, Mastercard, entre Projeções e Perspectivas Futurasmuitos outros em diferentes setores e regiões ao redor do mundo.
+
 Os fornecedores e parceiros agregam valor à Meta de várias maneiras. Eles ajudam a melhorar a eficiência operacional, permitindo que a Meta opere de maneira eficiente e eficaz, minimizando interrupções e maximizando a produtividade.Os parceiros de publicidade e mídia ajudam a Meta a alcançar um público mais amplo e aumentar sua base de usuários. Em troca, a Meta oferece a esses fornecedores e parceiros a oportunidade de trabalhar com uma das empresas de tecnologia mais influentes e de maior porte do mundo. Trata-se de uma relação mutuamente benéfica que impulsiona a inovação e o crescimento em todo o setor de tecnologia.
 
 ### Concorrentes
 A Meta, enfrenta uma concorrência acirrada em vários mercados globais. No mercado chinês, por exemplo, o WeChat tem uma presença dominante, principalmente devido às restrições governamentais à entrada de outros aplicativos. No Japão, a plataforma de comunicação Line é uma força a ser reconhecida.
+
 Nos Estados Unidos, a situação é um pouco diferente. A maioria da população possui planos de telefonia móvel que incluem SMS gratuitos, o que limita a predominância da Meta nesse segmento específico.
+
 O Snapchat é outro concorrente notável, com uma base de usuários substancial espalhada pelo mundo. Nos Estados Unidos, o aplicativo tem 100 milhões de usuários, na Índia 99,8 milhões, na França 23,4 milhões, no Reino Unido 19,8 milhões e na Arábia Saudita 19,1 milhões.
+
 O Telegram, com mais de 800 milhões de usuários, é o aplicativo de comunicação mais popular na Rússia. O Discord, por outro lado, tem uma presença global significativa, com 150 milhões de usuários.
+
 Finalmente, o TikTok, com mais de 1 bilhão de usuários ativos por mês em todo o mundo, é um dos principais concorrentes da Meta. Essa diversidade de plataformas e aplicativos destaca a dinâmica e a competitividade do mercado de tecnologia e comunicação digital.
 
 ### Projeções e Perspectivas Futuras
 A Meta, está em constante busca por inovação em seus produtos. Realiza frequentemente atualizações em seu aplicativo para torná-lo mais atraente aos consumidores e para solucionar problemas comuns enfrentados pelos usuários. Essa abordagem tem fortalecido a posição da Meta no mercado, e é certo que a empresa continuará a inovar em seus produtos.Operando em um mercado em constante evolução, acompanhar as tendências globais é essencial para a Meta. A empresa busca expandir sua atuação para mercados ainda pouco explorados, como Estados Unidos, Japão e China. No entanto, também é fundamental para a Meta consolidar sua posição nos setores onde já é dominante. Dessa forma, a empresa pode manter sua relevância e continuar a crescer.
+
 A interação entre pessoas e tecnologia, com o objetivo de gerar valor e aumentar a produtividade, é uma tendência que persiste e se fortalece a cada ano. A Meta está comprometida em trazer novas soluções inovadoras para o mercado, contribuindo positivamente para o avanço tecnológico e o bem-estar das pessoas.
+
 A inclusão e a diversidade no mercado de trabalho são temas de grande relevância e estão se tornando cada vez mais centrais nos negócios. A Meta está comprometida em ampliar a participação de pessoas no mercado de trabalho, buscando colaboradores e fornecedores que compartilhem dessa mesma iniciativa. Esta é uma visão geral da estratégia e dos compromissos da Meta em relação à inovação, expansão de mercado, interação tecnológica e diversidade no local de trabalho.
 
 ### 1.1.2. Análise SWOT (sprints 1 e 4)
@@ -126,21 +134,19 @@ A solução proposta é um jogo que simula o procedimento de seleção de  forne
 Os colaboradores deverão empregar o jogo como uma ferramenta de orientação acerca do procedimento de contratação de fornecedores para a META, visando  desmistificar a concepção de que se trata de um processo complexo e de difícil  aprendizagem. Durante o jogo, os colaboradores serão conduzidos e fornecidos  com dicas sobre como devem lidar com esse processo, proporcionando, assim, uma maior facilidade no seu aprendizado.
 
 ### Benefícios esperados:
- Aumentar engajamento dos funcionários com a empresa e suas 
-mecânicas; 
+ Aumentar engajamento dos funcionários com a empresa e suas mecânicas; 
  Facilitar entendimento do processo da contratação;
- Oportunidades de contratação de fornecedor sob o contexto de 
-Diversidade;
+ Oportunidades de contratação de fornecedor sob o contexto de Diversidade;
  Treinamento divertido e ágil;
  Exterminar as dúvidas referentes ao processo de contratação.
 
 ### Qual será o critério de sucesso?
- O usuário ter uma experiência satisfatória ao que foi proposto pela Meta além de ficar interessado, e logo, engajado no assunto de contratação de fornecedores ao concluir o jogo. Além disso o jogo deve cumprir seu papel de facilitador divertido e ágil na compreensão do processo de contratação de fornecedores, trazendo a tona a questão das diversidades de forna que não apresentar erros ou o mais próximo possível disso.
- Para avaliar esse sucesso os feedbacks que receberemos  pós lançamento do game, tanto vindos da META, quanto também  vindos da equipe de especialistas do INTELI devem ser positivos e construtivos. Dessa forma, poderemos comparar as experiências do usuário com as suas expectativas e também com as nossas.
+O usuário ter uma experiência satisfatória ao que foi proposto pela Meta além de ficar interessado, e logo, engajado no assunto de contratação de fornecedores ao concluir o jogo. Além disso o jogo deve cumprir seu papel de facilitador divertido e ágil na compreensão do processo de contratação de fornecedores, trazendo a tona a questão das diversidades de forna que não apresentar erros ou o mais próximo possível disso.
+
+Para avaliar esse sucesso os feedbacks que receberemos  pós lançamento do game, tanto vindos da META, quanto também  vindos da equipe de especialistas do INTELI devem ser positivos e construtivos. Dessa forma, poderemos comparar as experiências do usuário com as suas expectativas e também com as nossas.
 
 ### 1.1.4. Proposta de Valor (sprints 1 e 4)
 ![value proposition](https://github.com/Inteli-College/2024-T0014-IN01-G05/assets/158570773/92562887-e51f-4ab1-82b4-89572ead5159)
-
 
 ### 1.1.5. Matriz de Riscos (sprints 1 e 4)
 ![matriz de riscos](https://github.com/Inteli-College/2024-T0014-IN01-G05/assets/158570773/02e8932e-ee7b-4846-8033-9ffe65c82c20)
