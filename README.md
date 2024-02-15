@@ -11,24 +11,24 @@
 ## Nome do grupo
 
 ## 👨‍🎓 Integrantes: 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 1</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 2</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 3</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 4</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 5</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 6</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 7</a>
+- <a href="https://www.linkedin.com/in/davi-abreu-da-silveira-706323290/">Davi Abreu da Silveira</a>
+- <a href="https://www.linkedin.com/in/victorbarq/">Fernando Soares Oliveira</a>
+- <a href="https://www.linkedin.com/in/victorbarq/">Leonardo Ogata Pedrosa</a> 
+- <a href="https://www.linkedin.com/in/victorbarq/">Mateus Martins Silveira Pretti</a> 
+- <a href="https://www.linkedin.com/in/victorbarq/">Murilo Couto Oliveira</a>
+- <a href="https://www.linkedin.com/in/victorbarq/">Renan Sabino dos Reis</a> 
+- <a href="https://www.linkedin.com/in/victorbarq/">Vinicius Gomes Ibiapina</a>
 
 ## 👩‍🏫 Professores:
 ### Orientador(a) 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 1</a>
+- <a href="https://www.linkedin.com/in/marcelo-gon%C3%A7alves-phd-a550652/">Marcelo Luiz do Amaral Gonçalves</a>
 ### Instrutores
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 2</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 3</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 4</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 5</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 6</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 7</a>
+- <a>Bruna Mayer</a>
+- <a>Egon Ferreira Daxbacher</a> 
+- <a>Filipe Manoel Xavier Resina</a> 
+- <a>Filipe Gonçalves de Souza Nogueira da Silva</a>
+- <a>Kizzy Fernanda Terra Ferreira da Paz</a> 
+- <a>Ricardo José Misouri</a>
 
 ## 📜 Descrição
 
