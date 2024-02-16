@@ -179,19 +179,13 @@ Visto que o o projeto e o aprendizado dos alunos caminham juntos, é possível n
 
 ● Atraso devido a dificuldades iniciais
 Retomando o contexto do aprendizado, é muito provável que ocorra atraso nos planos devido ao primeiro contato com as ferramentas de programação, assim como antes citado. A solução seria a mudança de foco, antes na entrega do projeto, agora no exercício de aprender.
+
 ## 1.2. Requisitos do Projeto (sprints 1 e 2)
-
-*Posicione aqui a lista de requisitos levantados para o projeto, sejam pedidos do parceiro ou invenções do grupo. Descreva-os de forma objetiva, de modo que seja possível entender claramente como implementá-los tecnicamente.*
-
-*ATUALIZE ESTA SEÇÃO SEMPRE QUE ALGUM REQUISITO MUDAR EM SEU PROJETO*
-
-*Exemplo de tabela de requisitos*
-\# | Requisito  
---- | ---
-1 | O controle do personagem será realizado usando as teclas WASD para navegação pelas fases
-2 | O personagem perde uma vida toda vez que tocar em um inimigo ou em algum projétil inimigo
-3 | O jogo deve possuir uma tela de abertura para o jogador selecionar se quer jogar sozinho ou em dupla
-4 | ...
+1 | O controle do personagem será realizado usando as teclas WASD ou as setas para navegação pelas fases
+2 | O jogo deve ser desenvolvido para plataformas mobile
+3 | O jogo deve possuir uma tela de abertura onde o jogador poderá escolher o nome do seu personagem e seus pronomes
+4 | O jogo possuirá um sistema onde o jogador deve decidir se irá contratar um fornecedor com base nas suas estatísticas
+5 | O jogo possuirá dialogos quem guiem o jogador pelo processo de contratação de um novo fornecor, explicando os valores que a META busca em seus fornecedores
 
 ## 1.3. Público-alvo do Projeto (sprint 2)
 
