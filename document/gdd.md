@@ -149,6 +149,9 @@ Para avaliar esse sucesso os feedbacks que receberemos  pós lançamento do game
 ![value proposition](https://github.com/Inteli-College/2024-T0014-IN01-G05/assets/158570773/92562887-e51f-4ab1-82b4-89572ead5159)
 
 ### 1.1.5. Matriz de Riscos (sprints 1 e 4)
+
+A Matriz de Riscos se define como uma ferramenta que permite o usuário a reconhecer e metrificar as ameaças ao projeto no qual está sendo aplicada.
+
 ![matriz de riscos](https://github.com/Inteli-College/2024-T0014-IN01-G05/assets/158570773/676790e2-7fd1-4f48-a2ad-a63130338735)
 
 Conforme a avaliação dos riscos com a ferramenta da Matriz, segue a análise da vertente e o plano de ação para os mesmos:
