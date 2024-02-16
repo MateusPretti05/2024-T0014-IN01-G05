@@ -10,7 +10,7 @@
 #### [Davi Abreu da Silveira](https://www.linkedin.com/in/davi-abreu-da-silveira-706323290/)
 #### [Fernando Soares de Oliveira](https://www.linkedin.com/in/fernando-soares-de-oliveira-081092292/)
 #### Leonardo Ogata Pedrosa
-#### Mateus Martins Silveira Pretti
+#### [Mateus Martins Silveira Pretti](https://www.linkedin.com/in/mateus-martins-pretti-03ba952b4/)
 #### Murilo Couto Oliveira
 #### Renan Sabino dos Reis
 #### Vinicius Gomes Ibiapina
