@@ -121,17 +121,15 @@ A inclusão e a diversidade no mercado de trabalho são temas de grande relevân
 Necessidade de uma ferramenta que oriente e facilite a  compreensão de todos os passos da jornada de contratação de um  fornecedor META para colaboradores META. Desde o Sourcing  (Primeiro Contato) até o Payment (Pagamento).
 
 ### Dados disponíveis
-● Tecnologias a serem usadas no desenvolvimento do game: CSS; HTML5; JS; GitHub; VS Code; Phaser.
+● Tecnologias usadas no desenvolvimento do game: CSS; HTML5; JS; GitHub; VS Code; Phaser.
 
-● Macro do game: Decisões que afetam o final; Senso de progressão; Fazer parte de um time; Relação entre causa e efeito da ação em pouco tempo; Menos elementos, mais o essencial; Mais de uma fase; Sem banco de dados; Conteúdo restrito entre grupo e meta; Duração de + ou - 20 minutos; Celular como plataforma de uso; Inglês e Português; Podemos utilizar recursos da META no game (personagens, suas redes sociais, etc.); Recompensa pra aqueles que finalizaram o game.
-
-● Pontos de destaque das reuniões: Inclusão social; Perfil de fornecedor meta; SEEDS: Relacionamento com fornecedores; Engajamento; Diversidade; Sustentabilidade; Game deve ter algum recurso que ajude a engajar a equipe da Meta, UX e UI devem ser um foco no desenvolvimento do game.
+● Macro do game: Jogo baseado em decisão; Senso de progressão; Relação entre causa e efeito da ação rápida; Sem banco de dados; Conteúdo restrito entre grupo e meta; Duração de aproximadamente 20 minutos; Celular como plataforma de uso; Inglês e Português; Utilizar recursos da META no game; 
 
 ### Solução proposta 
-A solução proposta é um jogo que simula o procedimento de seleção de  fornecedores para a META. Nele, o jogador passará por cada etapa do processo  de contratação de um parceiro e avalia se o potencial parceiro atende aos  critérios da META, com base nas suas estatísticas como diversidade, ética,  receita entre outros. Com o objetivo de guiar o funcionário por esse processo de uma forma dinâmica e simplificada.
+ Um jogo que simula o procedimento de seleção de  fornecedores para a META. O jogador passará por cada etapa do processo de contratação de um parceiro e avalia se o potencial parceiro atende aos  critérios da META, com base nas suas estatísticas como diversidade e ética. Visando a guia do funcionário pelo processo de uma forma dinâmica e simplificada.
     
 ### Como a solução proposta deve ser utilizada?
-Os colaboradores deverão empregar o jogo como uma ferramenta de orientação acerca do procedimento de contratação de fornecedores para a META, visando  desmistificar a concepção de que se trata de um processo complexo e de difícil  aprendizagem. Durante o jogo, os colaboradores serão conduzidos e fornecidos  com dicas sobre como devem lidar com esse processo, proporcionando, assim, uma maior facilidade no seu aprendizado.
+Os colaboradores deverão empregar o jogo como uma ferramenta de orientação acerca do procedimento de contratação de fornecedores, visando desmistificar a concepção de que se trata de um processo complexo e de difícil  aprendizagem. Durante o jogo, os colaboradores serão conduzidos e fornecidos  com dicas sobre como devem lidar com esse processo, proporcionando, assim, uma maior facilidade no seu aprendizado.
 
 ### Benefícios esperados:
  Aumentar engajamento dos funcionários com a empresa e suas mecânicas; 
@@ -141,9 +139,15 @@ Os colaboradores deverão empregar o jogo como uma ferramenta de orientação ac
  Exterminar as dúvidas referentes ao processo de contratação.
 
 ### Qual será o critério de sucesso?
-O usuário ter uma experiência satisfatória ao que foi proposto pela Meta além de ficar interessado, e logo, engajado no assunto de contratação de fornecedores ao concluir o jogo. Além disso o jogo deve cumprir seu papel de facilitador divertido e ágil na compreensão do processo de contratação de fornecedores, trazendo a tona a questão das diversidades de forna que não apresentar erros ou o mais próximo possível disso.
+O usuário ter uma experiência satisfatória ao que foi proposto pela Meta além de ficar engajado no assunto de contratação de fornecedores;
 
-Para avaliar esse sucesso os feedbacks que receberemos  pós lançamento do game, tanto vindos da META, quanto também  vindos da equipe de especialistas do INTELI devem ser positivos e construtivos. Dessa forma, poderemos comparar as experiências do usuário com as suas expectativas e também com as nossas.
+O jogo cumprir seu papel de facilitador da compreensão;
+
+Trazer diversidades;
+
+ Não apresentar erros ou o mais próximo disso;
+
+A avaliação do sucesso virá com os feedbacks que receberemos da META e da equipe de profissionais do INTELI.
 
 ### 1.1.4. Proposta de Valor (sprints 1 e 4)
 ![value proposition](https://github.com/Inteli-College/2024-T0014-IN01-G05/assets/158570773/92562887-e51f-4ab1-82b4-89572ead5159)
